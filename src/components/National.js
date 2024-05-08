@@ -13,7 +13,10 @@ const National = () => {
         <FaArrowLeft size={20} />
       </button>
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mb-8 mt-28 flex-grow">
-        <h1 className="text-4xl font-bold ">DRAWING THE LINE</h1>
+        <div className="flex justify-between items-end mb-2">
+          <h1 className="text-4xl font-bold">DRAWING THE LINE</h1>
+          <span className=" font-bold justify-end ">5.08.24</span>
+        </div>
 
         <div className="flex justify-between items-end mb-2"></div>
 
